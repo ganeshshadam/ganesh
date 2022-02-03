@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://demo.nopcommerce.com/",
+    "ignoreTestFiles" : ["**/1-getting-started/", "**/2-advanced-examples/"],
+    "viweportHeight": 1080,
+    "viewportWihdth": 1920
+
+
+}
